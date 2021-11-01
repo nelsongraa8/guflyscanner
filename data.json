@@ -1,1 +1,625 @@
-{"0": {"name": " ", "name_url": "2021_Annette.", "url": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Annette./Annette.2021.720p.AMZN.WEBRip.900MB.x264-GalaxyRG.mkv"}, "1": {"name": "2 ", "name_url": "2021_A.Quiet.Place.Part.2", "url": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_A.Quiet.Place.Part.2/A.Quiet.Place.Part.2.2021.HDRip.720p.SLOTSLIGHTS.mkv"}, "2": {"name": "Dead ", "name_url": "2021_Army.of.the.Dead", "url": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Army.of.the.Dead/Army.of.the.Dead.2021.720p.WEBRip.900MB.x264-GalaxyRG.mkv"}, "3": {"name": "A todo tren destino Asturias ", "name_url": "2021_A todo tren destino Asturias", "url": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_A%20todo%20tren%20destino%20Asturias/A%20todo%20tren%20destino%20Asturias.mp4"}, "4": {"name": "Awake ", "name_url": "2021_Awake", "url": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Awake/Awake.2021.720p.WEBRip.x264.AAC-%5bYTS.MX%5d.mp4"}, "5": {"name": "Bajo cero ", "name_url": "2021_Bajo cero", "url": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Bajo%20cero/Bajo%20cero.mp4"}, "6": {"name": " ", "name_url": "2021_Birds.of.Paradise.", "url": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Birds.of.Paradise./Birds%20of%20Paradise%202021%201080p%20AMZN%20WEB-DL%20h264-CMRG.mkv"}}
+{
+    "0": {
+        "name_video": "Annette",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Annette./Annette.2021.720p.AMZN.WEBRip.900MB.x264-GalaxyRG.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Annette./Annette.2021.1080p.WEB.H264-NAISU.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Annette./"
+    },
+    "1": {
+        "name_video": "A Quiet Place Part 2",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_A.Quiet.Place.Part.2/A.Quiet.Place.Part.2.2021.HDRip.720p.SLOTSLIGHTS.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_A.Quiet.Place.Part.2/A.Quiet.Place.Part.2.2021.HDRip.1080p.SLOTSLIGHTS-es.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_A.Quiet.Place.Part.2/"
+    },
+    "2": {
+        "name_video": "Army of the Dead",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Army.of.the.Dead/Army.of.the.Dead.2021.720p.WEBRip.900MB.x264-GalaxyRG.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Army.of.the.Dead/Army%20of%20the%20Dead%202021%201080p%20WEB%20H264-NAISU.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Army.of.the.Dead/"
+    },
+    "3": {
+        "name_video": "A todo tren destino Asturias",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_A%20todo%20tren%20destino%20Asturias/A%20todo%20tren%20destino%20Asturias.mp4",
+        "url_subtitle": "",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_A%20todo%20tren%20destino%20Asturias/"
+    },
+    "4": {
+        "name_video": "Awake",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Awake/Awake.2021.720p.WEBRip.x264.AAC-%5bYTS.MX%5d.mp4",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Awake/Awake.2021.720p.WEBRip.x264.AAC-%5bYTS.MX%5d.es.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Awake/"
+    },
+    "5": {
+        "name_video": "Bajo cero",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Bajo%20cero/Bajo%20cero.mp4",
+        "url_subtitle": "",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Bajo%20cero/"
+    },
+    "6": {
+        "name_video": "Birds of Paradise",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Birds.of.Paradise./Birds%20of%20Paradise%202021%201080p%20AMZN%20WEB-DL%20h264-CMRG.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Birds.of.Paradise./Birds%20of%20Paradise%202021%201080p%20AMZN%20WEB-DL%20h264-CMRG.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Birds.of.Paradise./"
+    },
+    "7": {
+        "name_video": "Black Widow",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Black.Widow/Black%20Widow%202021%202160p%20DSNP%20WEB-DL%20x265%2010bit%20HDR%20DDP5.1%20Atmos-CM.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Black.Widow/Black%20Widow%202021%202160p%20DSNP%20WEB-DL%20x265%2010bit%20HDR%20DDP5.1%20Atmos-CM.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Black.Widow/"
+    },
+    "8": {
+        "name_video": "Blue Bayou",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Blue.Bayou./Blue.Bayou.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Blue.Bayou./Blue.Bayou.2021.720p.WEBRip.800MB.x264-GalaxyRG.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Blue.Bayou./"
+    },
+    "9": {
+        "name_video": "Candyman",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Candyman./Candyman%202021%202160p.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Candyman./Candyman%202021%202160p.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Candyman./"
+    },
+    "10": {
+        "name_video": "Chaos Walking",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Chaos.Walking/Chaos.Walking.2021..mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Chaos.Walking/Chaos.Walking.2021..srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Chaos.Walking/"
+    },
+    "11": {
+        "name_video": "Cherry",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Cherry/Cherry.2021..mp4",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Cherry/Cherry.2021..srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Cherry/"
+    },
+    "12": {
+        "name_video": "Cindirella",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Cindirella/Cinderella.2021.720p.AMZN.WEBRip.800MB.x264-GalaxyRG.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Cindirella/Cinderella%202021%20720p%20WEB%20H264-TIMECUT.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Cindirella/"
+    },
+    "13": {
+        "name_video": "Coda",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Coda./Coda.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Coda./CODA%202021%20720p%20WEB%20H264-NAISU.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Coda./"
+    },
+    "14": {
+        "name_video": "Cosmic",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Cosmic_Sin/Cosmic.Sin.2021.720p.WEBRip.x264.AAC-%5bYTS.MX%5d.mp4",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Cosmic_Sin/Cosmic.Sin.2021.720p.WEBRip.x264.AAC-%5bYTS.MX%5d.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Cosmic_Sin/"
+    },
+    "15": {
+        "name_video": "Cruella",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Cruella/Cruella.2021.720p.WEBRip.900MB.x264-GalaxyRG.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Cruella/Cruella.2021.720p.WEBRip.900MB.x264-GalaxyRG.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Cruella/"
+    },
+    "16": {
+        "name_video": "Dear Evan Hansen",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Dear.Evan.Hansen./Dear.Evan.Hansen.2021.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Dear.Evan.Hansen./Dear.Evan.Hansen.2021.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Dear.Evan.Hansen./"
+    },
+    "17": {
+        "name_video": "Dont Breathe 2",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Dont.Breathe.2./Dont.Breathe.2.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Dont.Breathe.2./Dont.Breathe.2.2021.720p.WEBRip.800MB.x264-GalaxyRG.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Dont.Breathe.2./"
+    },
+    "18": {
+        "name_video": "Dune",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Dune./Dune%202021%201080p%20HDRip%20X264%20AC3-EVO.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Dune./Dune%202021%201080p%20HDRip%20X264%20AC3-EVO.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Dune./"
+    },
+    "19": {
+        "name_video": "El cover",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_El%20cover/El%20cover..mp4",
+        "url_subtitle": "",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_El%20cover/"
+    },
+    "20": {
+        "name_video": "Escape Room Tournament of Champions",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Escape.Room.Tournament.of.Champions./Escape.Room.Tournament.of.Champions.2021.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Escape.Room.Tournament.of.Champions./Escape.Room.Tournament.of.Champions.2021.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Escape.Room.Tournament.of.Champions./"
+    },
+    "21": {
+        "name_video": "F9",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_F9./F9%202021%201080p%20AMZN%20WEB-DL%20DDP5.1%20H%20264-EVO.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_F9./F9%202021%201080p%20AMZN%20WEB-DL%20DDP5.1%20H%20264-EVO.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_F9./"
+    },
+    "22": {
+        "name_video": "Free Guy",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Free.Guy./Free%20Guy%202021%201080p%20HDRip%20X264%20DD5.1-EVO.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Free.Guy./Free%20Guy%202021%201080p%20HDRip%20X264%20DD5.1-EVO.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Free.Guy./"
+    },
+    "23": {
+        "name_video": "Fuimos Canciones",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Fuimos%20Canciones/Sounds.Like.Love.2021.SPANISH.720p.NF.WEBRip.800MB.x264-GalaxyRG.mkv",
+        "url_subtitle": "",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Fuimos%20Canciones/"
+    },
+    "24": {
+        "name_video": "Godzilla vs Kong",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Godzilla.vs.Kong/Godzilla.vs.Kong.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Godzilla.vs.Kong/Godzilla.vs.Kong.2021.720p.WEBRip.800MB.x264-GalaxyRG.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Godzilla.vs.Kong/"
+    },
+    "25": {
+        "name_video": "Halloween Kills",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Halloween.Kills./Halloween%20Kills%202021%201080p%20WEB-DL%20H264-CMRG.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Halloween.Kills./Halloween%20Kills%202021%201080p%20WEB-DL%20H264-CMRG.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Halloween.Kills./"
+    },
+    "26": {
+        "name_video": "I Care a Lot",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_I.Care.a.Lot/I.Care.a.Lot.2021.HDRip.XviD.AC3-EVO.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_I.Care.a.Lot/I.Care.a.Lot.2021.HDRip.XviD.AC3-EVO.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_I.Care.a.Lot/"
+    },
+    "27": {
+        "name_video": "Infinite",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Infinite/Infinite.2021.720p.WEBRip.x264.AAC-%5bYTS.MX%5d.mp4",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Infinite/Infinite%202021%201080p%20WEB%20H264-NAISU.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Infinite/"
+    },
+    "28": {
+        "name_video": "Joe Bell",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Joe.Bell./Joe.Bell.2021.720p.WEBRip.800MB.x264-GalaxyRG-es.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Joe.Bell./Joe.Bell.2021.720p.WEBRip.800MB.x264-GalaxyRG-es.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Joe.Bell./"
+    },
+    "29": {
+        "name_video": "Jolt",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Jolt./Jolt.2021.AMZN.WEBRip.600MB.h264.MP4-Microflix.mp4",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Jolt./Jolt.2021.AMZN.WEBRip.600MB.h264.MP4-Microflix.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Jolt./"
+    },
+    "30": {
+        "name_video": "Judas and the Black Messiah",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Judas.and.the.Black.Messiah/Judas%20and%20the%20Black%20Messiah%202021%201080p%20WEB%20H264-NAISU.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Judas.and.the.Black.Messiah/Judas%20and%20the%20Black%20Messiah%202021%201080p%20WEB%20H264-NAISU.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Judas.and.the.Black.Messiah/"
+    },
+    "31": {
+        "name_video": "Jungle Cruise",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Jungle.Cruise./Jungle%20Cruise%202021%201080p%20WEB%20H264-TIMECUT.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Jungle.Cruise./Jungle%20Cruise%202021%201080p%20WEB%20H264-TIMECUT.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Jungle.Cruise./"
+    },
+    "32": {
+        "name_video": "Kate",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Kate./Kate.2021.720p.NF.WEBRip.800MB.x264-GalaxyRG.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Kate./Kate.2021.720p.NF.WEBRip.800MB.x264-GalaxyRG.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Kate./"
+    },
+    "33": {
+        "name_video": "La Casa de Las Flores La Pel\u00c3\u00adcula",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_La%20Casa%20de%20Las%20Flores%20La%20Pel%C3%ADcula/La%20Casa%20de%20Las%20Flores%20La%20Pel%c3%adcula.mp4",
+        "url_subtitle": "",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_La%20Casa%20de%20Las%20Flores%20La%20Pel%C3%ADcula/"
+    },
+    "34": {
+        "name_video": "La casa del caracol",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_La%20casa%20del%20caracol/La%20casa%20del%20caracol.mp4",
+        "url_subtitle": "",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_La%20casa%20del%20caracol/"
+    },
+    "35": {
+        "name_video": "La vampira de barcelona",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_La%20vampira%20de%20barcelona/V4mp1raB4rc3l0na.m720p.ES.mp4",
+        "url_subtitle": "",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_La%20vampira%20de%20barcelona/"
+    },
+    "36": {
+        "name_video": "Locked Down",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Locked.Down/Locked.Down.2021..mp4",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Locked.Down/Locked.Down.2021.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Locked.Down/"
+    },
+    "37": {
+        "name_video": "Malcolm and Marie",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Malcolm.and.Marie/Malcolm.and.Marie.2021.mp4",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Malcolm.and.Marie/Malcolm.and.Marie.2021.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Malcolm.and.Marie/"
+    },
+    "38": {
+        "name_video": "Malignant",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Malignant./Malignant%202021%20720p%20WEB%20H264-TIMECUT.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Malignant./Malignant%202021%20720p%20WEB%20H264-TIMECUT.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Malignant./"
+    },
+    "39": {
+        "name_video": "Mortal Kombat",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Mortal.Kombat/Mortal.Kombat.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Mortal.Kombat/Mortal.Kombat.2021.720p.WEBRip.800MB.x264-GalaxyRG.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Mortal.Kombat/"
+    },
+    "40": {
+        "name_video": "Music",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Music/Music.2021-es.avi",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Music/Music.2021-es.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Music/"
+    },
+    "41": {
+        "name_video": "Nobody",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Nobody/Nobody.2021..mp4",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Nobody/Nobody.2021..srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Nobody/"
+    },
+    "42": {
+        "name_video": "No Man of God",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_No.Man.of.God./No.Man.of.God.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv",
+        "url_subtitle": "",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_No.Man.of.God./"
+    },
+    "43": {
+        "name_video": "No Sudden Move",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_No%20Sudden%20Move/No.Sudden.Move.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_No%20Sudden%20Move/No%20Sudden%20Move%202021%20720p%20WEB%20H264-TIMECUT.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_No%20Sudden%20Move/"
+    },
+    "44": {
+        "name_video": "Old",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Old./Old%202021%201080p%20HC%20HDRip%20X264%20AC3-EVO.mkv",
+        "url_subtitle": "",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Old./"
+    },
+    "45": {
+        "name_video": "Outside the Wire",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Outside.the.Wire/Outside.the.Wire.2021..mp4",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Outside.the.Wire/Outside.the.Wire.2021..es.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Outside.the.Wire/"
+    },
+    "46": {
+        "name_video": "Peter Rabbit 2",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Peter.Rabbit.2/Peter.Rabbit.2.The.Runaway.2021.720p.WEBRip.x264.AAC-%5bYTS.MX%5d.mp4",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Peter.Rabbit.2/Peter.Rabbit.2.The.Runaway.2021.720p.WEBRip.x264.AAC-%5bYTS.MX%5d.es.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Peter.Rabbit.2/"
+    },
+    "47": {
+        "name_video": "Reminiscence",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Reminiscence./Reminiscence.2021.720p.HMAX.WEBRip.800MB.x264-GalaxyRG.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Reminiscence./Reminiscence%202021%201080p%20HMAX%20WEB-DL%20x264-EVO.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Reminiscence./"
+    },
+    "48": {
+        "name_video": "Respect",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Respect./Respect.2021.720p.AMZN.WEBRip.900MB.x264-GalaxyRG.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Respect./Respect.2021.720p.AMZN.WEBRip.900MB.x264-GalaxyRG.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Respect./"
+    },
+    "49": {
+        "name_video": "Silk Road",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Silk.Road/Silk.Road.2021.BRRip.XviD.AC3-EVO.avi",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Silk.Road/Silk.Road.2021.BRRip.XviD.AC3-EVOs.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Silk.Road/"
+    },
+    "50": {
+        "name_video": "Snake Eyes G I Joe Origins",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Snake.Eyes.G.I.Joe.Origins/Snake.Eyes.G.I.Joe.Origins.2021.720p.AMZN.WEBRip.800MB.x264-GalaxyRG.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Snake.Eyes.G.I.Joe.Origins/Snake%20Eyes%20G.I.%20Joe%20Origins%202021%201080p%20AMZN%20WEB-DL%20H264-CMRG.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Snake.Eyes.G.I.Joe.Origins/"
+    },
+    "51": {
+        "name_video": "Space Jam a New Legacy",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Space.Jam.a.New.Legacy./Space.Jam.a.New.Legacy.2021.720p.HMAX.WEBRip.800MB.x264-GalaxyRG.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Space.Jam.a.New.Legacy./Space.Jam.a.New.Legacy.2021.720p.HMAX.WEBRip.800MB.x264-GalaxyRG.es.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Space.Jam.a.New.Legacy./"
+    },
+    "52": {
+        "name_video": "Spiral From the Book of Saw",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Spiral.From.the.Book.of.Saw/Spiral.From.the.Book.of.Saw.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Spiral.From.the.Book.of.Saw/Spiral%20From%20the%20Book%20of%20Saw%202021%201080p%20AMZN%20WEBRip%20DDP5.1%20x264-CM.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Spiral.From.the.Book.of.Saw/"
+    },
+    "53": {
+        "name_video": "Stillwater",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Stillwater/Stillwater%202021%201080p%20AMZN%20WEB-DL%20H264-CMRG.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Stillwater/Stillwater%202021%201080p%20AMZN%20WEB-DL%20H264-CMRG.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Stillwater/"
+    },
+    "54": {
+        "name_video": "Stowaway",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Stowaway/Stowaway.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Stowaway/Stowaway.2021.720p.WEBRip.800MB.x264-GalaxyRG.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Stowaway/"
+    },
+    "55": {
+        "name_video": "Sweet Girl",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Sweet.Girl/Sweet%20Girl.mp4",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Sweet.Girl/Sweet%20Girl.Spanish%20Latin.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Sweet.Girl/"
+    },
+    "56": {
+        "name_video": "The Card Counter",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The%20Card%20Counter./The%20Card%20Counter.2021.WEBSCREENER.XviD-EVO.avi",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The%20Card%20Counter./The%20Card%20Counter.2021.WEBSCREENER.XviD-EVO.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The%20Card%20Counter./"
+    },
+    "57": {
+        "name_video": "The Conjuring the Devil Made Me Do It",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Conjuring.the.Devil.Made.Me.Do.It/The.Conjuring.the.Devil.Made.Me.Do.It.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Conjuring.the.Devil.Made.Me.Do.It/The%20Conjuring%20The%20Devil%20Made%20Me%20Do%20It%202021%201080p%20WEB%20H264-NAISU.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Conjuring.the.Devil.Made.Me.Do.It/"
+    },
+    "58": {
+        "name_video": "The Dig",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Dig/The%20Dig%202021%20720p%20WEB%20H264-NAISU.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Dig/The%20Dig%202021%20720p%20WEB%20H264-NAISU.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Dig/"
+    },
+    "59": {
+        "name_video": "The Forever Purge",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Forever.Purge./The.Forever.Purge.2021.HDRip.XviD.AC3-EVO.avi",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Forever.Purge./The%20Forever%20Purge%202021%201080p%20WEB-DL%20H264-CMRG.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Forever.Purge./"
+    },
+    "60": {
+        "name_video": "The Green Knight",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Green.Knight./The.Green.Knight.2021.HDRip.XviD.AC3-EVO.avi",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Green.Knight./The.Green.Knight.2021.HDRip.XviD.AC3-EVO.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Green.Knight./"
+    },
+    "61": {
+        "name_video": "The Guilty",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Guilty./The.Guilty.2021..avi",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Guilty./The.Guilty.2021..srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Guilty./"
+    },
+    "62": {
+        "name_video": "The Hitmans Wifes Bodyguard",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Hitmans.Wifes.Bodyguard/The.Hitmans.Wifes.Bodyguard.2021.HDRip.850MB.x264-BONSAIHOOEY.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Hitmans.Wifes.Bodyguard/The.Hitmans.Wifes.Bodyguard.2021..srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Hitmans.Wifes.Bodyguard/"
+    },
+    "63": {
+        "name_video": "The Ice Road",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Ice.Road/The.Ice.Road.2021.720p.WEBRip.x264.AAC-%5bYTS.MX%5d.mp4",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Ice.Road/The.Ice.Road.2021.720p.WEBRip.x264.AAC-%5bYTS.MX%5d.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Ice.Road/"
+    },
+    "64": {
+        "name_video": "The Last Letter From Your Lover",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Last.Letter.From.Your.Lover./The%20Last%20Letter%20From%20Your%20Lover%202021%20720p%20WEB%20H264-TIMECUT.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Last.Letter.From.Your.Lover./The%20Last%20Letter%20From%20Your%20Lover%202021%20720p%20WEB%20H264-TIMECUT.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Last.Letter.From.Your.Lover./"
+    },
+    "65": {
+        "name_video": "The Little Things",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Little.Things/The%20Little%20Things%202021%20720p%20WEB%20H264-NAISU.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Little.Things/The%20Little%20Things%202021%20720p%20WEB%20H264-NAISU.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Little.Things/"
+    },
+    "66": {
+        "name_video": "The Many Saints of Newark",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Many.Saints.of.Newark./The%20Many%20Saints%20of%20Newark%202021%201080p%20HMAX%20WEBRip%20DDP5.1%20Atmos%20x264-CM.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Many.Saints.of.Newark./The%20Many%20Saints%20of%20Newark%202021%201080p%20HMAX%20WEBRip%20DDP5.1%20Atmos%20x264-CM.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Many.Saints.of.Newark./"
+    },
+    "67": {
+        "name_video": "The Map of Tiny Perfect Things",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Map.of.Tiny.Perfect.Things/The%20Map%20of%20Tiny%20Perfect%20Things%202021%20720p%20WEB%20H264-NAISU.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Map.of.Tiny.Perfect.Things/The%20Map%20of%20Tiny%20Perfect%20Things%202021%20720p%20WEB%20H264-NAISU.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Map.of.Tiny.Perfect.Things/"
+    },
+    "68": {
+        "name_video": "The Marksman",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Marksman/The%20Marksman%202021%201080p%20WEB-DL%20DD5.1%20H264-FGT.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Marksman/The%20Marksman%202021%201080p%20WEB-DL%20DD5.1%20H264-FGT.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Marksman/"
+    },
+    "69": {
+        "name_video": "The Medium",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Medium./The.Medium.2021.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Medium./The.Medium.2021.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Medium./"
+    },
+    "70": {
+        "name_video": "TheMisfits",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_TheMisfits/The.Misfits.2021.720p.WEBRip.x264.AAC-%5bYTS.MX%5d.mp4",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_TheMisfits/The.Misfits.2021.720p.WEBRip.x264.AAC-%5bYTS.MX%5d.es.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_TheMisfits/"
+    },
+    "71": {
+        "name_video": "The Night House",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Night.House./The.Night.House.2021.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Night.House./The.Night.House.2021.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Night.House./"
+    },
+    "72": {
+        "name_video": "The Power of the Dog",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The%20Power%20of%20the%20Dog./The%20power%20of%20dog.avi",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The%20Power%20of%20the%20Dog./The%20power%20of%20dog.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The%20Power%20of%20the%20Dog./"
+    },
+    "73": {
+        "name_video": "The Starling",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Starling./The%20Starling%202021%201080p%20NF%20WEB-DL%20x264-EVO.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Starling./The%20Starling%202021%201080p%20NF%20WEB-DL%20x264-EVO.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Starling./"
+    },
+    "74": {
+        "name_video": "The Suicide Squad",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Suicide.Squad./The.Suicide.Squad.2021.720p.HMAX.WEBRip.900MB.x264-GalaxyRG.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Suicide.Squad./The%20Suicide%20Squad%202021%201080p%20HMAX%20WEB-DL%20x264-EVO.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Suicide.Squad./"
+    },
+    "75": {
+        "name_video": "The Tomorrow War",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Tomorrow.War/The.Tomorrow.War.2021.720p.WEBRip.900MB.x264-GalaxyRG.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Tomorrow.War/The%20Tomorrow%20War%202021%202160p%20AMZN%20WEB-DL%20x265%2010bit%20HDR10Plus%20DDP5.1-NAISU.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Tomorrow.War/"
+    },
+    "76": {
+        "name_video": "The Unholy",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Unholy/The.Unholy.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Unholy/The.Unholy.2021.720p.WEBRip.800MB.x264-GalaxyRG.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Unholy/"
+    },
+    "77": {
+        "name_video": "The United States vs Billie Holiday",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.United.States.vs.Billie.Holiday/The.United.States.vs.Billie.Holiday.2021..mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.United.States.vs.Billie.Holiday/The.United.States.vs.Billie.Holiday.2021..srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.United.States.vs.Billie.Holiday/"
+    },
+    "78": {
+        "name_video": "The",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The_virtuoso/The.Virtuoso.2021.720p.BluRay.x264.AAC-%5bYTS.MX%5d.mp4",
+        "url_subtitle": "",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The_virtuoso/"
+    },
+    "79": {
+        "name_video": "The Woman in the Window",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Woman.in.the.Window/The%20Woman%20in%20the%20Window%202021%20720p%20WEB%20H264-NAISU.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Woman.in.the.Window/The%20Woman%20in%20the%20Window%202021%20720p%20WEB%20H264-NAISU.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_The.Woman.in.the.Window/"
+    },
+    "80": {
+        "name_video": "Things Heard and Seen",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Things.Heard.and.Seen/Things.Heard.and.Seen.2021..mp4",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Things.Heard.and.Seen/Things.Heard.and.Seen.2021..srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Things.Heard.and.Seen/"
+    },
+    "81": {
+        "name_video": "Those Who Wish Me Dead",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Those.Who.Wish.Me.Dead/Those.Who.Wish.Me.Dead.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Those.Who.Wish.Me.Dead/Those%20Who%20Wish%20Me%20Dead%202021%20720p%20WEB%20H264-NAISU.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Those.Who.Wish.Me.Dead/"
+    },
+    "82": {
+        "name_video": "Titane",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Titane/Titane.2021.FRENCH.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Titane/Titane.2021.FRENCH.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Titane/"
+    },
+    "83": {
+        "name_video": "Tom and Jerry",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Tom.and.Jerry/Tom%20and%20Jerry%202021%201080p%20WEB-DL%20H264-EVO.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Tom.and.Jerry/Tom%20and%20Jerry%202021%201080p%20WEB-DL%20H264-EVO.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Tom.and.Jerry/"
+    },
+    "84": {
+        "name_video": "Tom Clancys Without Remorse",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Tom.Clancys.Without.Remorse/Tom.Clancys.Without.Remorse.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Tom.Clancys.Without.Remorse/Tom.Clancys.Without.Remorse.2021.1080p.AMZN.WEB-DL-es.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Tom.Clancys.Without.Remorse/"
+    },
+    "85": {
+        "name_video": "Voyagers",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Voyagers/Voyagers.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Voyagers/Voyagers.2021.720p.WEBRip.800MB.x264-GalaxyRG.es.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Voyagers/"
+    },
+    "86": {
+        "name_video": "Way Down",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Way.Down/Way.Down.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Way.Down/Way.Down.2021.720p.WEBRip.800MB.x264-GalaxyRG.srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Way.Down/"
+    },
+    "87": {
+        "name_video": "Wrath of Man",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Wrath.of.Man/Wrath%20of%20Man%20(2021).mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Wrath.of.Man/Wrath%20of%20Man%20(2021).srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Wrath.of.Man/"
+    },
+    "88": {
+        "name_video": "Zack Snyders Justice League",
+        "anno_video": "2021",
+        "url_video": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Zack.Snyders.Justice.League/Zack.Snyders.Justice.League.2021.REPACK..mkv",
+        "url_subtitle": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Zack.Snyders.Justice.League/Zack.Snyders.Justice.League.2021.REPACK..srt",
+        "url_folder": "http://visuales.uclv.cu//Peliculas/Extranjeras/2021/2021_Zack.Snyders.Justice.League/"
+    }
+}
