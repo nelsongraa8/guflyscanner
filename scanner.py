@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 FILE_JSON = "./data.json"
 ###  URLs general donde se encuentran los datos para traer los datos
 URL_GENERAL = [ 'http://127.0.0.1/guflyscanner/listado_test.html' , 'https://visuales.uclv.cu/listado.html' ];
-URL_GENERAL = URL_GENERAL[0] 
+URL_GENERAL = URL_GENERAL[0]
 ###  Anno de las peliculas
 anno_movie_test = ''
 
@@ -20,7 +20,7 @@ def function_for_connect( link ):
     ###  Explorando los nuevos <a> para verficar cual de todos es el video
     soup_explorer = BeautifulSoup(resp_explorer.text, 'html.parser')
     links_explorer = soup_explorer.find_all('a')
-    
+
     return links_explorer
 
 ###  Funcion para encontrar el archivo de video dentro de la carpeta del repo
@@ -51,11 +51,11 @@ def url_link_exporer(link_href_explorer):
             return_link_complete_subtitle = link_href_explorer + link_explorer_href
 
     ###  Objeto que se le devulve con el url del video y del subtitulo
-    object_return = { 
+    object_return = {
         'video' : return_link_complete_video,
-        'subtitulo' : return_link_complete_subtitle 
+        'subtitulo' : return_link_complete_subtitle
     }
-    return object_return 
+    return object_return
 
 
 ###  Funcion para sacar correctamente el nombre de la pelicula
@@ -83,7 +83,7 @@ def url_link_name( name_movie ):
 
         ###  Mostrando la salida por consola
         print( name_complete_finali + '\n' )
-        
+
         return name_complete_finali
 
 
@@ -102,7 +102,6 @@ def function_verification_anno_movie(  anno_text ):
         return True
     else:
         return False
-        
 
 
 
@@ -113,7 +112,7 @@ if __name__ == '__main__':
 
     ### Recorrer el Array con for in
     link_peliculas = 'Peliculas/Extranjeras/2021'
-    
+
     ###  Borrar lo que ya esta escrito en el archivo
     filew = open( FILE_JSON , 'w')
     filew.write('')
@@ -123,11 +122,11 @@ if __name__ == '__main__':
     for link in links:
         ###  Links dentro de la web
         link_href = link.get('href')
-        
+
         ###  Indicarme con -1 si no tiene la condicion de link_peliculas
         link_href_find = link_href.find(link_peliculas)
 
-        ###  Detectar a salido por consola para 
+        ###  Detectar a salido por consola para
         if int(link_href_find) == -1:
             print('no esta ...')
         else:
@@ -137,25 +136,25 @@ if __name__ == '__main__':
 
             ###  Verificar si es valido en nombre del enlace como una pelicula para procesarlo en el JSON
             if function_verification_name_link( link.get_text() ):
-                
+
                 ###  Se ejecuta si el <a> tiene la condicion que necesito
                 name_archivo_end_url = url_link_exporer(link_href)
 
                 ###  Sacar el nombre real de la pelicula
                 nombre_real_to_show = url_link_name( link.get_text() )
-                
-                jsonObject[ index ] = { 
+
+                jsonObject[ index ] = {
                     'name_video': nombre_real_to_show,
                     'anno_video': anno_movie_test,
                     'url_video' : name_archivo_end_url['video'],
                     'url_subtitle' :  name_archivo_end_url['subtitulo'],
                     'url_folder' : link_href
                 }
-                
+
                 ###  Andirle 1 al contador
                 index = index + 1
 
 
     ###  Abrir el archivo para escribir a partir de la ultima linea
-    json.dump( jsonObject , filew )
+    json.dump( jsonObject , filew , indent=4 )
     filew.close()
